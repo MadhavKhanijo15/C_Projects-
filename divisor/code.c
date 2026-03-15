@@ -1,4 +1,4 @@
-// program to find divisor or factorial
+// program to find divisor of a given number 
 #include <stdio.h>
 int main() {
     int num,i;
